@@ -97,7 +97,7 @@ VALUES
 ('O medo de amar é o medo de ser livre', 5, 207),
 ('Samba em Paris', 6, 267),
 ("The Bard\'s Song", 7, 244),
-('Feeling good', 8, 100);
+('Feeling Good', 8, 100);
 
 
 INSERT INTO tabela_usuario (nome_usuario, data_assinatura, plano_id, idade)
